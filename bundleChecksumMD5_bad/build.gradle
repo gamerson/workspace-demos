@@ -1,0 +1,3 @@
+gradle.liferayWorkspace {
+	bundleChecksumMD5 = "bad_md5sum"
+}

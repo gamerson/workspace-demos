@@ -1,0 +1,4 @@
+gradle.liferayWorkspace {
+	bundleChecksumMD5 = "560236ecaa1400c256abb3b0be18de03"
+	bundleUrl = new File(rootProject.projectDir, "custom_bundle.zip").toURL()
+}
