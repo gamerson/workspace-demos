@@ -1,3 +1,0 @@
-gradle.projectsEvaluated {
-	println "bundleChecksumMD5 = ${gradle.liferayWorkspace.bundleChecksumMD5}"
-}

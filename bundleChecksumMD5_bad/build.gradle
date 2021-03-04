@@ -1,3 +1,0 @@
-gradle.liferayWorkspace {
-	bundleChecksumMD5 = "invalid12345"
-}
